@@ -9,19 +9,8 @@ Suntool offers an easy-to-use, no-code, fully visual toolkit for Solana users.
 一站式管理Solana代币上市流程
 One-stop management of the Solana token listing process
 
-工具官网：https://www.suntool.cc/
-Tool official website: https://www.suntool.cc/
-
-锁币发行视频教程：https://youtu.be/Hdx7dLQDldE
-Video tutorial on coin lock issuance：https://youtu.be/Hdx7dLQDldE
+Mint工具下载：
 
 
-![image](/image/home.jpg)
 
-联系我们:https://t.me/wousdt
-Contact Us:https://t.me/wousdt
 
-频道: https://t.me/suntoolcc
-Community Group:
-
-X: https://twitter.com/suntoolcc
